@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544609182 source:d:\projects\alg_18\work_1\work_1\main.cpp
+	<iostream>
+	"function.h"
+
+1544607298 d:\projects\alg_18\work_1\work_1\function.h
+
+1544607787 source:d:\projects\alg_18\work_1\work_1\sunarr_1.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<deque>
+	"function.h"
+
